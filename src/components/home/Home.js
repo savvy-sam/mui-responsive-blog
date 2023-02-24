@@ -24,7 +24,6 @@ function Home() {
           </Box>
     </Stack>
     </Container>
-
    </Box>
   )
 }
