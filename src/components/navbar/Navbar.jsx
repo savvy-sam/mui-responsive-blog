@@ -35,7 +35,7 @@ const Navbar = () => {
     {Name:"Cloud", Link: '#'}]
 
   return (
-    <AppBar sx={{background:"black"}}>
+    <AppBar position='static' sx={{background:"black"}}>
        <StyledToolBar>
         <StyledSocialBox>
             < FacebookOutlined/>
